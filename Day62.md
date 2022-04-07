@@ -1,11 +1,11 @@
-#Day 62 - 8 Apr 2022
+# Day 62 - 8 Apr 2022
 
 ## Yesterday leftover
 * leetcode easy greedy question ⭕
 
-##LeetCode
+## LeetCode
 
-###Meta phone interview Question
+### Meta phone interview Question
 1. https://leetcode.com/problems/missing-ranges
    1. try to look at the relationship between variables
    2. not to overthinks
