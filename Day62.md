@@ -3,7 +3,8 @@
 ## Yesterday leftover
 * leetcode easy greedy question ⭕
 
-##LeetCode
+##LeetCode  
+
 ###Meta phone interview Question
 1. https://leetcode.com/problems/missing-ranges
    1. try to look at the relationship between variables
