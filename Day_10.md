@@ -1,4 +1,4 @@
-#Day 10 -11 Jan 2022
+# Day 10 -11 Jan 2022
 
 ## Yesterday leftover
 * have to understand how to reverse a linkedlist ⭕  
