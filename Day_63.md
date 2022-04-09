@@ -1,4 +1,4 @@
-# Day 62 - 8 Apr 2022
+# Day 63 - 9 Apr 2022
 
 ## Yesterday leftover
 * leetcode easy greedy question ⭕
