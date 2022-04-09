@@ -18,4 +18,4 @@ Link: https://leetcode.com/problems/count-sorted-vowel-strings/
 3. maths could help.
 
 ## TODO
-* leetcode easy greedy question / medium dp problem ⭕
+* leetcode easy greedy question / medium dp problem 
