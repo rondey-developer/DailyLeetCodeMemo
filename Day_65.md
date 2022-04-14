@@ -4,7 +4,6 @@
 * continue readings ⭕
 * one interview question ❌
 
-## LeetCode
 
 ### Readings
 * https://labuladong-github-io.translate.goog/algo/2/18/28/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=ja&_x_tr_pto=wapp
