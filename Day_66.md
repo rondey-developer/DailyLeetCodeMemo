@@ -1,4 +1,4 @@
-# Day 64 - 11 Apr 2022
+# Day 66 - 14 Apr 2022
 
 ## Yesterday leftover
 * continue Binary search
