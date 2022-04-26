@@ -1,4 +1,4 @@
-# Day 68 - 21 Apr 2022
+# Day 70 - 24 Apr 2022
 
 ## Yesterday leftover
 * continue some graphical dynamic programming
