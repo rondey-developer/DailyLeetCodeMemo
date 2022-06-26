@@ -1,4 +1,4 @@
-# Day 81 - 10 Jun 2022
+# Day 82 - 12 Jun 2022
 
 ## Yesterday leftover
 1. continue Blind75
